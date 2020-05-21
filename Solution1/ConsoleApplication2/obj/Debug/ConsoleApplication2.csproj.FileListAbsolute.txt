@@ -1,0 +1,8 @@
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/bin/Debug/ConsoleApplication2.pdb
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/bin/Debug/Lib.dll
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/bin/Debug/Lib.pdb
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/obj/Debug/ConsoleApplication2.csprojAssemblyReference.cache
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.CopyComplete
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/ConsoleApplication2/obj/Debug/ConsoleApplication2.pdb

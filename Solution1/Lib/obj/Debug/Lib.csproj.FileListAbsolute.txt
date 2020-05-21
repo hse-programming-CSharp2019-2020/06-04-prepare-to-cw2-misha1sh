@@ -1,0 +1,5 @@
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/Lib/bin/Debug/Lib.dll
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/Lib/bin/Debug/Lib.pdb
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/Lib/obj/Debug/Lib.csprojAssemblyReference.cache
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/Lib/obj/Debug/Lib.dll
+/home/user/Downloads/06-04-prepare-to-cw2-misha1sh/Solution1/Lib/obj/Debug/Lib.pdb
